@@ -11,7 +11,7 @@
 
 - 📫 Y si quieres contactarme.. **Fmagaleano@gmail.com**
 
-- 📄 [Tengo experiencia en desarrollo web y estoy abierto a colaborar en proyectos interesantes. Si tienes alguna pregunta o necesitas ayuda en un proyecto, no dudes en contactarme.](Tengo experiencia en desarrollo web y estoy abierto a colaborar en proyectos interesantes. Si tienes alguna pregunta o necesitas ayuda en un proyecto, no dudes en contactarme.)
+- 📄 Tengo experiencia en desarrollo web y estoy abierto a colaborar en proyectos interesantes. Si tienes alguna pregunta o necesitas ayuda en un proyecto, no dudes en contactarme.
 
 - ⚡ Dataso: **Me encanta la milanesa <3**
 
