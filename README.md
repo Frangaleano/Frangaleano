@@ -17,7 +17,7 @@
 
 <h3>LinkedIn:</h3>
 <p>
-<a href="https://linkedin.com/in/francisco galeano" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco galeano" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/franciscogaleano1/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="francisco galeano" height="30" width="40" /></a>
 </p>
 
 <h>Lenguajes y Herramientas:</h3>
