@@ -1,7 +1,7 @@
 <h1>Hola mi nombres es Francisco!</h1>
 <h3>Soy un desarrollador frontend de Argentina</h3>
 
-- 🌱 Soy estudiante de **UTN**
+- 🌱 Soy estudiante 
 
 - 👯 Me gustaria colaborar en proyectos de **desarrollo web**
 
